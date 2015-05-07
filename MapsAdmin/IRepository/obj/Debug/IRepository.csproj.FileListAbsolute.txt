@@ -1,0 +1,7 @@
+D:\projects\MiscProjects\MyCompany\IRepository\obj\Debug\IRepository.csprojResolveAssemblyReference.cache
+D:\projects\MiscProjects\MyCompany\IRepository\bin\Debug\IRepository.dll
+D:\projects\MiscProjects\MyCompany\IRepository\bin\Debug\IRepository.pdb
+D:\projects\MiscProjects\MyCompany\IRepository\bin\Debug\Entities.dll
+D:\projects\MiscProjects\MyCompany\IRepository\bin\Debug\Entities.pdb
+D:\projects\MiscProjects\MyCompany\IRepository\obj\Debug\IRepository.dll
+D:\projects\MiscProjects\MyCompany\IRepository\obj\Debug\IRepository.pdb

@@ -1,0 +1,9 @@
+D:\projects\MiscProjects\MyCompany\Repository.CachingDecorator\bin\Debug\Repository.CachingDecorator.dll
+D:\projects\MiscProjects\MyCompany\Repository.CachingDecorator\bin\Debug\Repository.CachingDecorator.pdb
+D:\projects\MiscProjects\MyCompany\Repository.CachingDecorator\bin\Debug\Entities.dll
+D:\projects\MiscProjects\MyCompany\Repository.CachingDecorator\bin\Debug\Repository.Interface.dll
+D:\projects\MiscProjects\MyCompany\Repository.CachingDecorator\bin\Debug\Entities.pdb
+D:\projects\MiscProjects\MyCompany\Repository.CachingDecorator\bin\Debug\Repository.Interface.pdb
+D:\projects\MiscProjects\MyCompany\Repository.CachingDecorator\obj\Debug\Repository.CachingDecorator.dll
+D:\projects\MiscProjects\MyCompany\Repository.CachingDecorator\obj\Debug\Repository.CachingDecorator.pdb
+D:\projects\MiscProjects\MyCompany\Repository.CachingDecorator\obj\Debug\Repository.CachingDecorator.csprojResolveAssemblyReference.cache

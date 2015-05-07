@@ -1,0 +1,7 @@
+D:\projects\MiscProjects\MyCompany\Repository.Sql\bin\Debug\Repository.Sql.dll
+D:\projects\MiscProjects\MyCompany\Repository.Sql\bin\Debug\Repository.Sql.pdb
+D:\projects\MiscProjects\MyCompany\Repository.Sql\obj\Debug\Repository.Sql.csprojResolveAssemblyReference.cache
+D:\projects\MiscProjects\MyCompany\Repository.Sql\obj\Debug\Repository.Sql.dll
+D:\projects\MiscProjects\MyCompany\Repository.Sql\obj\Debug\Repository.Sql.pdb
+D:\projects\MiscProjects\MyCompany\Repository.Sql\bin\Debug\Entities.dll
+D:\projects\MiscProjects\MyCompany\Repository.Sql\bin\Debug\Entities.pdb

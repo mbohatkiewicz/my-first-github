@@ -1,0 +1,7 @@
+D:\projects\MiscProjects\MyCompany\Repository.Interface\bin\Debug\Repository.Interface.dll
+D:\projects\MiscProjects\MyCompany\Repository.Interface\bin\Debug\Repository.Interface.pdb
+D:\projects\MiscProjects\MyCompany\Repository.Interface\bin\Debug\Entities.dll
+D:\projects\MiscProjects\MyCompany\Repository.Interface\bin\Debug\Entities.pdb
+D:\projects\MiscProjects\MyCompany\Repository.Interface\obj\Debug\Repository.Interface.dll
+D:\projects\MiscProjects\MyCompany\Repository.Interface\obj\Debug\Repository.Interface.pdb
+D:\projects\MiscProjects\MyCompany\Repository.Interface\obj\Debug\Repository.Interface.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\projects\MiscProjects\MyCompany\Repository.EF\obj\Debug\Repository.EF.csprojResolveAssemblyReference.cache
+D:\projects\MiscProjects\MyCompany\Repository.EF\bin\Debug\Repository.EF.dll.config
+D:\projects\MiscProjects\MyCompany\Repository.EF\bin\Debug\Repository.EF.dll
+D:\projects\MiscProjects\MyCompany\Repository.EF\bin\Debug\Repository.EF.pdb
+D:\projects\MiscProjects\MyCompany\Repository.EF\bin\Debug\Entities.dll
+D:\projects\MiscProjects\MyCompany\Repository.EF\bin\Debug\Entities.pdb
+D:\projects\MiscProjects\MyCompany\Repository.EF\obj\Debug\Repository.EF.dll
+D:\projects\MiscProjects\MyCompany\Repository.EF\obj\Debug\Repository.EF.pdb
+D:\projects\MiscProjects\MyCompany\Repository.EF\bin\Debug\Repository.Interface.dll
+D:\projects\MiscProjects\MyCompany\Repository.EF\bin\Debug\Repository.Interface.pdb
